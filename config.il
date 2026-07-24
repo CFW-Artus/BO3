@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Project><Title>AIO Base</Title><Author>Vampy</Author><Game>BO3</Game><Mode>ZM</Mode><Platform>PS4</Platform><Symbols>DEBUG;EXAMPLE</Symbols></Project>
